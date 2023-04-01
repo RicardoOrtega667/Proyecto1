@@ -8,8 +8,9 @@
     justify-content: center;
     background-image: url(./imagenes/tienda.jpg);
     background-repeat: no-repeat;
+    opacity: 3;
     background-size: cover;
-    color: white;
+    color: black;
     font-size: 40px;
 }
 
@@ -19,10 +20,7 @@
 }
 
 
-/* .carousel-item img {
-    width: 750px;
-    height: 650px;
-} */
+
 
 blog {
     display: flex;
