@@ -86,3 +86,21 @@ footer p {
     color: black;
 
 }
+
+@media (width <= 800px) {
+    body {
+      width: 800px;
+    }
+  }
+  
+  @media (800px <= width <= 1280px) {
+    body {
+        width:1280px
+    }
+  }
+  
+  @media (width >= 1280px) {
+    body{
+        width:100%;
+    }
+  }
